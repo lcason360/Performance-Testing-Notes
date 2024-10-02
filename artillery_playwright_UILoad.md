@@ -133,6 +133,5 @@ loadTest()
 - **Error Handling**: Implement error handling in your Playwright script to manage any unexpected issues during testing.
 - **Headless Mode**: The Playwright script is set to run in headless mode. You can change it to `false` for debugging purposes.
 
-### Conclusion
-
-By combining Artillery.io and Playwright, you can effectively simulate user interactions on your web application while generating load, giving you insights into performance under real-world conditions. Adjust your scripts and configurations as needed to fit your specific testing requirements.
+---
+### [Back to README](./README.md)

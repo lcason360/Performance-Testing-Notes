@@ -55,6 +55,5 @@ Interpreting performance testing results is crucial to understanding how your ap
 - **Focusing Solely on Averages**: Look at percentiles (e.g., 90th, 95th) to get a better picture of response times, as averages can mask spikes in latency.
 - **Neglecting End-User Experience**: Correlate performance testing results with real user monitoring (RUM) data to understand how performance impacts user experience.
 
-### Conclusion
-
-Interpreting performance testing results requires a holistic approach, considering multiple metrics and their interplay. By analyzing these results thoughtfully, you can identify performance bottlenecks, understand user experience impacts, and make informed decisions for optimizing your application.
+---
+### [Back to README](./README.md)
